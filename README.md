@@ -1,1 +1,3 @@
 # test_repo
+# 
+DAMAGE FORM: The premises damage form, given to any one tenant named on the lease during the check in progress, is for the listing of pre existing damages in the house or unit and it must be returned to our office within three (3) days from the date of the first check in. Otherwise, the tenant of tenants will be held responsible for any and all damages to the premises that were not listed on the damage form and if the damage form is not turned into our office in the time allotted above, then it will be assumed that there are no pre-existing damages and any damages to house or unit after check in will be considered the tenant(s) responsibility.
